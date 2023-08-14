@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background:#ff9900;
+}
+.btn{
+    height: 12.5em;
+    width: 12.5em;
+    border: 10px solid black ;
+    margin: 1rem;
+
+
+}
+.first{
+    border-top-left-radius: 70%;
+    background: red;
+}
+.sec{
+    border-top-right-radius: 70%;
+    background: green;
+}
+.third{
+    border-bottom-left-radius: 70%;
+    background: yellow;
+}
+.fourth{
+    border-bottom-right-radius: 70%;
+    background: #0606c0;
+}
+.btn-container{
+    display: flex ;
+    justify-content: center;
+    
+}
+.flash{
+    background-color: white;
+}
+.flashbg{
+    background-color: red;
+}
